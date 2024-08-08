@@ -679,6 +679,7 @@ export function getAircraftIcon(aircraft: VatsimShortenedAircraft | VatsimPilot)
         case 'EC30':
         case 'EC35':
         case 'EC55':
+        case 'G2CA':    
             return aircraftIcons.ec45;
         case 'AW101':
             return aircraftIcons.eh10;
